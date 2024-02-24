@@ -1,0 +1,1 @@
+Images that will be used during runtime of the game. Be sure to add it into your IDE before compiling
