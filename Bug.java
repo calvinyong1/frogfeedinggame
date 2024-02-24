@@ -1,27 +1,9 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
+///////////////////////////// FILE HEADER ///////////////////////////////////////
 //
 // Title: Froggie Feeding Frenzie
-// Course: CS 300 Fall 2023
 //
-// Author: Calvin Weng Jien Yong
-// Email: cyong4@wisc.edu
-// Lecturer: Mouna Kacem
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name: Wen Tao Thye
-// Partner Email: wthye@wisc.edu
-// Partner Lecturer's Name: Hobbes LeGault
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// X Write-up states that pair programming is allowed for this assignment.
-// X We have both read and understand the course Pair Programming Policy.
-// X We have registered our team prior to the team registration deadline.
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: NONE
-// Online Sources: NONE
+// Author: Calvin Yong Weng Jien
+// Email: calvinyongwj@gail.com
 //
 ///////////////////////////////////////////////////////////////////////////////
 
