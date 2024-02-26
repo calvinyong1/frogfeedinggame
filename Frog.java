@@ -58,7 +58,7 @@ public class Frog extends GameActor implements Moveable {
     // Draw and extend tongue if tongue is active
     if (tongue.isActive()) {
       tongue.draw();
-      tongue.extend(getX(), -2);
+      tongue.extend(getX(), -4);
     }
   }
 
