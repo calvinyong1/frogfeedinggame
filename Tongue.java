@@ -14,7 +14,6 @@ import processing.core.PApplet;
  * Frenzie game. Graphically this is represented by a line. This tongue can move with the Frog and
  * extend when active.
  *
- * @author Michelle
  */
 public class Tongue {
   /** PApplet to use to draw to the screen */
